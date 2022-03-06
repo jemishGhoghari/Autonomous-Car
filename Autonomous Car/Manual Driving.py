@@ -28,7 +28,7 @@ framerate = 60
 # Ball size
 ball_size = 10
 # Load image
-carImg = pygame.image.load('.\DubinCar\images\car.png')
+carImg = pygame.image.load('..\Autonomous Car\images\car.png')
 # Colors
 white = pygame.color.Color(255, 255, 255)
 green = pygame.color.Color(0, 255, 0)
