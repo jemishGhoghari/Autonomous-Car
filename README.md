@@ -1,5 +1,5 @@
 # Autonomous Car Driving
-Hello Forks, This is my early new Python Programme. In this programme, I have build a simple Autonomous Car using Pygame. It is very excited and Funny Projects. There are two main files, one is for manual car driving and Second is Autonomus Car . 
+Hello Forks, This is my early new Python Programme. In this programme, I have build a simple Autonomous Car using Pygame. It is very excited and Funny Project. There are two main files, one is for manual car driving and Second is Autonomus Car . 
 This is very basic ground level Autonomous Car. You can add more freatures into it.
 
 # Prerequisites
